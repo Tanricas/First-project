@@ -1,0 +1,15 @@
+\\Pc_201_01\обмен_201\2023-24 учебный год\ИСиП-22-11-1\LarionovИСРПО\Lab1\Lab1\bin\Debug\net7.0\Lab1.exe
+\\Pc_201_01\обмен_201\2023-24 учебный год\ИСиП-22-11-1\LarionovИСРПО\Lab1\Lab1\bin\Debug\net7.0\Lab1.deps.json
+\\Pc_201_01\обмен_201\2023-24 учебный год\ИСиП-22-11-1\LarionovИСРПО\Lab1\Lab1\bin\Debug\net7.0\Lab1.runtimeconfig.json
+\\Pc_201_01\обмен_201\2023-24 учебный год\ИСиП-22-11-1\LarionovИСРПО\Lab1\Lab1\bin\Debug\net7.0\Lab1.dll
+\\Pc_201_01\обмен_201\2023-24 учебный год\ИСиП-22-11-1\LarionovИСРПО\Lab1\Lab1\bin\Debug\net7.0\Lab1.pdb
+\\Pc_201_01\обмен_201\2023-24 учебный год\ИСиП-22-11-1\LarionovИСРПО\Lab1\Lab1\obj\Debug\net7.0\Lab1.csproj.AssemblyReference.cache
+\\Pc_201_01\обмен_201\2023-24 учебный год\ИСиП-22-11-1\LarionovИСРПО\Lab1\Lab1\obj\Debug\net7.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+\\Pc_201_01\обмен_201\2023-24 учебный год\ИСиП-22-11-1\LarionovИСРПО\Lab1\Lab1\obj\Debug\net7.0\Lab1.AssemblyInfoInputs.cache
+\\Pc_201_01\обмен_201\2023-24 учебный год\ИСиП-22-11-1\LarionovИСРПО\Lab1\Lab1\obj\Debug\net7.0\Lab1.AssemblyInfo.cs
+\\Pc_201_01\обмен_201\2023-24 учебный год\ИСиП-22-11-1\LarionovИСРПО\Lab1\Lab1\obj\Debug\net7.0\Lab1.csproj.CoreCompileInputs.cache
+\\Pc_201_01\обмен_201\2023-24 учебный год\ИСиП-22-11-1\LarionovИСРПО\Lab1\Lab1\obj\Debug\net7.0\Lab1.dll
+\\Pc_201_01\обмен_201\2023-24 учебный год\ИСиП-22-11-1\LarionovИСРПО\Lab1\Lab1\obj\Debug\net7.0\refint\Lab1.dll
+\\Pc_201_01\обмен_201\2023-24 учебный год\ИСиП-22-11-1\LarionovИСРПО\Lab1\Lab1\obj\Debug\net7.0\Lab1.pdb
+\\Pc_201_01\обмен_201\2023-24 учебный год\ИСиП-22-11-1\LarionovИСРПО\Lab1\Lab1\obj\Debug\net7.0\Lab1.genruntimeconfig.cache
+\\Pc_201_01\обмен_201\2023-24 учебный год\ИСиП-22-11-1\LarionovИСРПО\Lab1\Lab1\obj\Debug\net7.0\ref\Lab1.dll
